@@ -39,8 +39,8 @@
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn (opcional)](https://www.linkedin.com/in/agustin-camera-a0258221a/)
-- 🌐 [Portfolio (si tenés)](https://agustincameracv.netlify.app/)
+- 💼 LinkedIn: https://www.linkedin.com/in/agustin-camera-a0258221a/
+- 🌐 Portfolio : https://agustincameracv.netlify.app/
 - 📧 Email: AgustinCamera16@hotmail.com
 
 ---
