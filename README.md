@@ -108,12 +108,6 @@ Ejemplo de cómo agregar proyectos cuando los tengas:
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita aleatoria" />
-</p>
-
 ---
 
 **Hecho por Agustín Camera** 
