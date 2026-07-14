@@ -42,9 +42,12 @@ Mi objetivo es **crear soluciones web funcionales y atractivas**, combinando un 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
-### Bases de datos y herramientas
+### Bases de datos & Herramientas
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -69,16 +72,20 @@ Mi objetivo es **crear soluciones web funcionales y atractivas**, combinando un 
 ## 🐍 Contribuciones animadas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Agust18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agust18&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
 </p>
 
 ---
 
+
+
+
+
+<!-- 
+
 ## 🚀 Proyectos destacados
 
 > Próximamente: ¡Mis proyectos favoritos estarán aquí!
-
-<!-- 
 Ejemplo de cómo agregar proyectos cuando los tengas:
 
 ### [📦 Nombre del Proyecto](https://github.com/Agust18/proyecto)
