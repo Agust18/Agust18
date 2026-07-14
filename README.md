@@ -18,9 +18,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Hola! Soy **Agustín Camera**, un apasionado estudiante de programación de **Chacabuco, Buenos Aires, Argentina**. 
+¡Hola! Soy **Agustín Camera**,estudiante de programación de **Chacabuco, Buenos Aires, Argentina**. 
 
-Mi objetivo es **crear soluciones web funcionales y atractivas**, combinando un diseño cuidado con código limpio y eficiente. Estoy en constante aprendizaje y siempre buscando nuevos desafíos que me permitan crecer como desarrollador.
+Mi objetivo? **crear soluciones web funcionales y escalables**,código limpio y eficiente. Estoy en constante aprendizaje y siempre buscando nuevos desafíos que me permitan crecer como desarrollador.
 
 ### 🔭 Actualmente...
 - 🎓 Estudiando **Programación** (orientado al desarrollo web)
@@ -116,4 +116,4 @@ Ejemplo de cómo agregar proyectos cuando los tengas:
 
 ---
 
-> ⭐ **Hecho por Agustín Camera** 
+**Hecho por Agustín Camera** 
