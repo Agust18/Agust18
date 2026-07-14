@@ -24,10 +24,7 @@ Mi objetivo es **crear soluciones web funcionales y atractivas**, combinando un 
 
 ### 🔭 Actualmente...
 - 🎓 Estudiando **Programación** (orientado al desarrollo web)
-- 💻 Profundizando en **React** y **Tailwind CSS**
 - 🛠️ Construyendo proyectos fullstack con **PHP** y **MySQL**
-- 🌱 Aprendiendo **Node.js** y **Express** para expandir mi stack
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -112,15 +109,6 @@ Ejemplo de cómo agregar proyectos cuando los tengas:
 
 ---
 
-## 💬 ¿Qué más estoy aprendiendo?
-
-Actualmente estoy profundizando en:
-- ⚛️ **React Hooks** y manejo de estado
-- 🗄️ **APIs RESTful** con PHP y MySQL
-- 🎨 **UI/UX** con Tailwind CSS
-- ☁️ **Despliegue** en Netlify y Vercel
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita aleatoria" />
